@@ -1,0 +1,40 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 80px;
+}
+
+
+.navbar {
+    background-color: #dbebd3;
+    --bs-navbar-toggler-border-color: none;
+    justify-content: left;
+}
+
+.navbar-brand {
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #363636;
+}
+
+.navbar-text {
+    font-size: 20px;
+    padding-right: 950px;
+}
+
+h2 {
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #363636;
+}
+
+.offcanvas-title {
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 30px;
+    margin-top: 120%;
+}

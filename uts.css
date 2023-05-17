@@ -1,0 +1,65 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 80px;
+}
+
+.navbar {
+    background-color: #dbebd3;
+    --bs-navbar-toggler-border-color: none;
+    
+}
+
+.navbar-brand {
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #363636;
+    
+}
+
+.navbar-text {
+    font-size: 15px;
+    padding-right: 900px;
+}
+
+h2 {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #363636;
+}
+
+.offcanvas-title {
+    font-weight: bold;
+}
+
+#logout {
+    border-radius: 30px;
+    margin-top: 120%;
+}
+
+
+.card {
+    background-color: #dbebd3;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.d-flex {
+    width: 25%;
+    display: inline;
+    padding-bottom: 10px;
+    float: right;
+}
+
+.control-me {
+    margin-bottom: 25px ;
+}
+
+.btn{
+    margin-bottom: 20px;
+}
+
+

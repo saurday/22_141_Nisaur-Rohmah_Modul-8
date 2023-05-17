@@ -1,0 +1,20 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.card {
+    margin-top: 200px;
+    margin-left: 500px;
+    width: 30%;
+}
+
+.card-body {
+    background-color: #dbebd3;
+}
+
+h4, p {
+    text-align: center;
+}
+
+.btn {
+    width: 375px;
+}
